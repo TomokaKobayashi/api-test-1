@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApiTest1Application<api-test1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.chandla.apitest1.ApiTest1Application",
+            "projectName": "api-test1",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
